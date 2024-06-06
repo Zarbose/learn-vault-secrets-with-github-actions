@@ -7,6 +7,7 @@ Simple API Python avec un endpoint type Hello World.
 
 ## Forkez-moi ! Clonez-moi !
 
+
 ## Utilisation de Vault Secrets avec GitHub Actions
 
 L'intégration de Vault Secrets avec GitHub est hyper facile car 100% managée (partenariat GitHub / Vault).
